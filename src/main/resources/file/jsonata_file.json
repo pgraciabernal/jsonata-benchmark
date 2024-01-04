@@ -1,0 +1,1003 @@
+[
+  {
+    "name": {
+      "common": "France",
+      "official": "French Republic",
+      "nativeName": {
+        "fra": {
+          "official": "République française",
+          "common": "France"
+        }
+      }
+    },
+    "capital": [
+      "Paris"
+    ],
+    "subregion": "Western Europe",
+    "population": 67391582
+  },
+  {
+    "name": {
+      "common": "Vatican City",
+      "official": "Vatican City State",
+      "nativeName": {
+        "ita": {
+          "official": "Stato della Città del Vaticano",
+          "common": "Vaticano"
+        },
+        "lat": {
+          "official": "Status Civitatis Vaticanæ",
+          "common": "Vaticanæ"
+        }
+      }
+    },
+    "capital": [
+      "Vatican City"
+    ],
+    "subregion": "Southern Europe",
+    "population": 451
+  },
+  {
+    "name": {
+      "common": "Netherlands",
+      "official": "Kingdom of the Netherlands",
+      "nativeName": {
+        "nld": {
+          "official": "Koninkrijk der Nederlanden",
+          "common": "Nederland"
+        }
+      }
+    },
+    "capital": [
+      "Amsterdam"
+    ],
+    "subregion": "Western Europe",
+    "population": 16655799
+  },
+  {
+    "name": {
+      "common": "Serbia",
+      "official": "Republic of Serbia",
+      "nativeName": {
+        "srp": {
+          "official": "Република Србија",
+          "common": "Србија"
+        }
+      }
+    },
+    "capital": [
+      "Belgrade"
+    ],
+    "subregion": "Southeast Europe",
+    "population": 6908224
+  },
+  {
+    "name": {
+      "common": "North Macedonia",
+      "official": "Republic of North Macedonia",
+      "nativeName": {
+        "mkd": {
+          "official": "Република Северна Македонија",
+          "common": "Македонија"
+        }
+      }
+    },
+    "capital": [
+      "Skopje"
+    ],
+    "subregion": "Southeast Europe",
+    "population": 2077132
+  },
+  {
+    "name": {
+      "common": "Austria",
+      "official": "Republic of Austria",
+      "nativeName": {
+        "bar": {
+          "official": "Republik Österreich",
+          "common": "Österreich"
+        }
+      }
+    },
+    "capital": [
+      "Vienna"
+    ],
+    "subregion": "Central Europe",
+    "population": 8917205
+  },
+  {
+    "name": {
+      "common": "Lithuania",
+      "official": "Republic of Lithuania",
+      "nativeName": {
+        "lit": {
+          "official": "Lietuvos Respublikos",
+          "common": "Lietuva"
+        }
+      }
+    },
+    "capital": [
+      "Vilnius"
+    ],
+    "subregion": "Northern Europe",
+    "population": 2794700
+  },
+  {
+    "name": {
+      "common": "Finland",
+      "official": "Republic of Finland",
+      "nativeName": {
+        "fin": {
+          "official": "Suomen tasavalta",
+          "common": "Suomi"
+        },
+        "swe": {
+          "official": "Republiken Finland",
+          "common": "Finland"
+        }
+      }
+    },
+    "capital": [
+      "Helsinki"
+    ],
+    "subregion": "Northern Europe",
+    "population": 5530719
+  },
+  {
+    "name": {
+      "common": "Albania",
+      "official": "Republic of Albania",
+      "nativeName": {
+        "sqi": {
+          "official": "Republika e Shqipërisë",
+          "common": "Shqipëria"
+        }
+      }
+    },
+    "capital": [
+      "Tirana"
+    ],
+    "subregion": "Southeast Europe",
+    "population": 2837743
+  },
+  {
+    "name": {
+      "common": "Ireland",
+      "official": "Republic of Ireland",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Ireland",
+          "common": "Ireland"
+        },
+        "gle": {
+          "official": "Poblacht na hÉireann",
+          "common": "Éire"
+        }
+      }
+    },
+    "capital": [
+      "Dublin"
+    ],
+    "subregion": "Northern Europe",
+    "population": 4994724
+  },
+  {
+    "name": {
+      "common": "Monaco",
+      "official": "Principality of Monaco",
+      "nativeName": {
+        "fra": {
+          "official": "Principauté de Monaco",
+          "common": "Monaco"
+        }
+      }
+    },
+    "capital": [
+      "Monaco"
+    ],
+    "subregion": "Western Europe",
+    "population": 39244
+  },
+  {
+    "name": {
+      "common": "Liechtenstein",
+      "official": "Principality of Liechtenstein",
+      "nativeName": {
+        "deu": {
+          "official": "Fürstentum Liechtenstein",
+          "common": "Liechtenstein"
+        }
+      }
+    },
+    "capital": [
+      "Vaduz"
+    ],
+    "subregion": "Western Europe",
+    "population": 38137
+  },
+  {
+    "name": {
+      "common": "Portugal",
+      "official": "Portuguese Republic",
+      "nativeName": {
+        "por": {
+          "official": "República português",
+          "common": "Portugal"
+        }
+      }
+    },
+    "capital": [
+      "Lisbon"
+    ],
+    "subregion": "Southern Europe",
+    "population": 10305564
+  },
+  {
+    "name": {
+      "common": "Denmark",
+      "official": "Kingdom of Denmark",
+      "nativeName": {
+        "dan": {
+          "official": "Kongeriget Danmark",
+          "common": "Danmark"
+        }
+      }
+    },
+    "capital": [
+      "Copenhagen"
+    ],
+    "subregion": "Northern Europe",
+    "population": 5831404
+  },
+  {
+    "name": {
+      "common": "Slovakia",
+      "official": "Slovak Republic",
+      "nativeName": {
+        "slk": {
+          "official": "Slovenská republika",
+          "common": "Slovensko"
+        }
+      }
+    },
+    "capital": [
+      "Bratislava"
+    ],
+    "subregion": "Central Europe",
+    "population": 5458827
+  },
+  {
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany",
+      "nativeName": {
+        "deu": {
+          "official": "Bundesrepublik Deutschland",
+          "common": "Deutschland"
+        }
+      }
+    },
+    "capital": [
+      "Berlin"
+    ],
+    "subregion": "Western Europe",
+    "population": 83240525
+  },
+  {
+    "name": {
+      "common": "Luxembourg",
+      "official": "Grand Duchy of Luxembourg",
+      "nativeName": {
+        "deu": {
+          "official": "Großherzogtum Luxemburg",
+          "common": "Luxemburg"
+        },
+        "fra": {
+          "official": "Grand-Duché de Luxembourg",
+          "common": "Luxembourg"
+        },
+        "ltz": {
+          "official": "Groussherzogtum Lëtzebuerg",
+          "common": "Lëtzebuerg"
+        }
+      }
+    },
+    "capital": [
+      "Luxembourg"
+    ],
+    "subregion": "Western Europe",
+    "population": 632275
+  },
+  {
+    "name": {
+      "common": "Greece",
+      "official": "Hellenic Republic",
+      "nativeName": {
+        "ell": {
+          "official": "Ελληνική Δημοκρατία",
+          "common": "Ελλάδα"
+        }
+      }
+    },
+    "capital": [
+      "Athens"
+    ],
+    "subregion": "Southern Europe",
+    "population": 10715549
+  },
+  {
+    "name": {
+      "common": "Moldova",
+      "official": "Republic of Moldova",
+      "nativeName": {
+        "ron": {
+          "official": "Republica Moldova",
+          "common": "Moldova"
+        }
+      }
+    },
+    "capital": [
+      "Chișinău"
+    ],
+    "subregion": "Eastern Europe",
+    "population": 2617820
+  },
+  {
+    "name": {
+      "common": "Ukraine",
+      "official": "Ukraine",
+      "nativeName": {
+        "ukr": {
+          "official": "Україна",
+          "common": "Україна"
+        }
+      }
+    },
+    "capital": [
+      "Kyiv"
+    ],
+    "subregion": "Eastern Europe",
+    "population": 44134693
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica italiana",
+          "common": "Italia"
+        }
+      }
+    },
+    "capital": [
+      "Rome"
+    ],
+    "subregion": "Southern Europe",
+    "population": 59554023
+  },
+  {
+    "name": {
+      "common": "Andorra",
+      "official": "Principality of Andorra",
+      "nativeName": {
+        "cat": {
+          "official": "Principat d'Andorra",
+          "common": "Andorra"
+        }
+      }
+    },
+    "capital": [
+      "Andorra la Vella"
+    ],
+    "subregion": "Southern Europe",
+    "population": 77265
+  },
+  {
+    "name": {
+      "common": "United Kingdom",
+      "official": "United Kingdom of Great Britain and Northern Ireland",
+      "nativeName": {
+        "eng": {
+          "official": "United Kingdom of Great Britain and Northern Ireland",
+          "common": "United Kingdom"
+        }
+      }
+    },
+    "capital": [
+      "London"
+    ],
+    "subregion": "Northern Europe",
+    "population": 67215293
+  },
+  {
+    "name": {
+      "common": "Russia",
+      "official": "Russian Federation",
+      "nativeName": {
+        "rus": {
+          "official": "Российская Федерация",
+          "common": "Россия"
+        }
+      }
+    },
+    "capital": [
+      "Moscow"
+    ],
+    "subregion": "Eastern Europe",
+    "population": 144104080
+  },
+  {
+    "name": {
+      "common": "Åland Islands",
+      "official": "Åland Islands",
+      "nativeName": {
+        "swe": {
+          "official": "Landskapet Åland",
+          "common": "Åland"
+        }
+      }
+    },
+    "capital": [
+      "Mariehamn"
+    ],
+    "subregion": "Northern Europe",
+    "population": 29458
+  },
+  {
+    "name": {
+      "common": "Poland",
+      "official": "Republic of Poland",
+      "nativeName": {
+        "pol": {
+          "official": "Rzeczpospolita Polska",
+          "common": "Polska"
+        }
+      }
+    },
+    "capital": [
+      "Warsaw"
+    ],
+    "subregion": "Central Europe",
+    "population": 37950802
+  },
+  {
+    "name": {
+      "common": "Malta",
+      "official": "Republic of Malta",
+      "nativeName": {
+        "eng": {
+          "official": "Republic of Malta",
+          "common": "Malta"
+        },
+        "mlt": {
+          "official": "Repubblika ta ' Malta",
+          "common": "Malta"
+        }
+      }
+    },
+    "capital": [
+      "Valletta"
+    ],
+    "subregion": "Southern Europe",
+    "population": 525285
+  },
+  {
+    "name": {
+      "common": "Bosnia and Herzegovina",
+      "official": "Bosnia and Herzegovina",
+      "nativeName": {
+        "bos": {
+          "official": "Bosna i Hercegovina",
+          "common": "Bosna i Hercegovina"
+        },
+        "hrv": {
+          "official": "Bosna i Hercegovina",
+          "common": "Bosna i Hercegovina"
+        },
+        "srp": {
+          "official": "Босна и Херцеговина",
+          "common": "Босна и Херцеговина"
+        }
+      }
+    },
+    "capital": [
+      "Sarajevo"
+    ],
+    "subregion": "Southeast Europe",
+    "population": 3280815
+  },
+  {
+    "name": {
+      "common": "Slovenia",
+      "official": "Republic of Slovenia",
+      "nativeName": {
+        "slv": {
+          "official": "Republika Slovenija",
+          "common": "Slovenija"
+        }
+      }
+    },
+    "capital": [
+      "Ljubljana"
+    ],
+    "subregion": "Central Europe",
+    "population": 2100126
+  },
+  {
+    "name": {
+      "common": "Jersey",
+      "official": "Bailiwick of Jersey",
+      "nativeName": {
+        "eng": {
+          "official": "Bailiwick of Jersey",
+          "common": "Jersey"
+        },
+        "fra": {
+          "official": "Bailliage de Jersey",
+          "common": "Jersey"
+        },
+        "nrf": {
+          "official": "Bailliage dé Jèrri",
+          "common": "Jèrri"
+        }
+      }
+    },
+    "capital": [
+      "Saint Helier"
+    ],
+    "subregion": "Northern Europe",
+    "population": 100800
+  },
+  {
+    "name": {
+      "common": "Belarus",
+      "official": "Republic of Belarus",
+      "nativeName": {
+        "bel": {
+          "official": "Рэспубліка Беларусь",
+          "common": "Белару́сь"
+        },
+        "rus": {
+          "official": "Республика Беларусь",
+          "common": "Беларусь"
+        }
+      }
+    },
+    "capital": [
+      "Minsk"
+    ],
+    "subregion": "Eastern Europe",
+    "population": 9398861
+  },
+  {
+    "name": {
+      "common": "San Marino",
+      "official": "Republic of San Marino",
+      "nativeName": {
+        "ita": {
+          "official": "Repubblica di San Marino",
+          "common": "San Marino"
+        }
+      }
+    },
+    "capital": [
+      "City of San Marino"
+    ],
+    "subregion": "Southern Europe",
+    "population": 33938
+  },
+  {
+    "name": {
+      "common": "Czechia",
+      "official": "Czech Republic",
+      "nativeName": {
+        "ces": {
+          "official": "Česká republika",
+          "common": "Česko"
+        },
+        "slk": {
+          "official": "Česká republika",
+          "common": "Česko"
+        }
+      }
+    },
+    "capital": [
+      "Prague"
+    ],
+    "subregion": "Central Europe",
+    "population": 10698896
+  },
+  {
+    "name": {
+      "common": "Iceland",
+      "official": "Iceland",
+      "nativeName": {
+        "isl": {
+          "official": "Ísland",
+          "common": "Ísland"
+        }
+      }
+    },
+    "capital": [
+      "Reykjavik"
+    ],
+    "subregion": "Northern Europe",
+    "population": 366425
+  },
+  {
+    "name": {
+      "common": "Isle of Man",
+      "official": "Isle of Man",
+      "nativeName": {
+        "eng": {
+          "official": "Isle of Man",
+          "common": "Isle of Man"
+        },
+        "glv": {
+          "official": "Ellan Vannin or Mannin",
+          "common": "Mannin"
+        }
+      }
+    },
+    "capital": [
+      "Douglas"
+    ],
+    "subregion": "Northern Europe",
+    "population": 85032
+  },
+  {
+    "name": {
+      "common": "Estonia",
+      "official": "Republic of Estonia",
+      "nativeName": {
+        "est": {
+          "official": "Eesti Vabariik",
+          "common": "Eesti"
+        }
+      }
+    },
+    "capital": [
+      "Tallinn"
+    ],
+    "subregion": "Northern Europe",
+    "population": 1331057
+  },
+  {
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation",
+      "nativeName": {
+        "fra": {
+          "official": "Confédération suisse",
+          "common": "Suisse"
+        },
+        "gsw": {
+          "official": "Schweizerische Eidgenossenschaft",
+          "common": "Schweiz"
+        },
+        "ita": {
+          "official": "Confederazione Svizzera",
+          "common": "Svizzera"
+        },
+        "roh": {
+          "official": "Confederaziun svizra",
+          "common": "Svizra"
+        }
+      }
+    },
+    "capital": [
+      "Bern"
+    ],
+    "subregion": "Western Europe",
+    "population": 8654622
+  },
+  {
+    "name": {
+      "common": "Kosovo",
+      "official": "Republic of Kosovo",
+      "nativeName": {
+        "sqi": {
+          "official": "Republika e Kosovës",
+          "common": "Kosova"
+        },
+        "srp": {
+          "official": "Република Косово",
+          "common": "Косово"
+        }
+      }
+    },
+    "capital": [
+      "Pristina"
+    ],
+    "subregion": "Southeast Europe",
+    "population": 1775378
+  },
+  {
+    "name": {
+      "common": "Spain",
+      "official": "Kingdom of Spain",
+      "nativeName": {
+        "spa": {
+          "official": "Reino de España",
+          "common": "España"
+        }
+      }
+    },
+    "capital": [
+      "Madrid"
+    ],
+    "subregion": "Southern Europe",
+    "population": 47351567
+  },
+  {
+    "name": {
+      "common": "Romania",
+      "official": "Romania",
+      "nativeName": {
+        "ron": {
+          "official": "România",
+          "common": "România"
+        }
+      }
+    },
+    "capital": [
+      "Bucharest"
+    ],
+    "subregion": "Southeast Europe",
+    "population": 19286123
+  },
+  {
+    "name": {
+      "common": "Gibraltar",
+      "official": "Gibraltar",
+      "nativeName": {
+        "eng": {
+          "official": "Gibraltar",
+          "common": "Gibraltar"
+        }
+      }
+    },
+    "capital": [
+      "Gibraltar"
+    ],
+    "subregion": "Southern Europe",
+    "population": 33691
+  },
+  {
+    "name": {
+      "common": "Hungary",
+      "official": "Hungary",
+      "nativeName": {
+        "hun": {
+          "official": "Magyarország",
+          "common": "Magyarország"
+        }
+      }
+    },
+    "capital": [
+      "Budapest"
+    ],
+    "subregion": "Central Europe",
+    "population": 9749763
+  },
+  {
+    "name": {
+      "common": "Bulgaria",
+      "official": "Republic of Bulgaria",
+      "nativeName": {
+        "bul": {
+          "official": "Република България",
+          "common": "България"
+        }
+      }
+    },
+    "capital": [
+      "Sofia"
+    ],
+    "subregion": "Southeast Europe",
+    "population": 6927288
+  },
+  {
+    "name": {
+      "common": "Belgium",
+      "official": "Kingdom of Belgium",
+      "nativeName": {
+        "deu": {
+          "official": "Königreich Belgien",
+          "common": "Belgien"
+        },
+        "fra": {
+          "official": "Royaume de Belgique",
+          "common": "Belgique"
+        },
+        "nld": {
+          "official": "Koninkrijk België",
+          "common": "België"
+        }
+      }
+    },
+    "capital": [
+      "Brussels"
+    ],
+    "subregion": "Western Europe",
+    "population": 11555997
+  },
+  {
+    "name": {
+      "common": "Sweden",
+      "official": "Kingdom of Sweden",
+      "nativeName": {
+        "swe": {
+          "official": "Konungariket Sverige",
+          "common": "Sverige"
+        }
+      }
+    },
+    "capital": [
+      "Stockholm"
+    ],
+    "subregion": "Northern Europe",
+    "population": 10353442
+  },
+  {
+    "name": {
+      "common": "Faroe Islands",
+      "official": "Faroe Islands",
+      "nativeName": {
+        "dan": {
+          "official": "Færøerne",
+          "common": "Færøerne"
+        },
+        "fao": {
+          "official": "Føroyar",
+          "common": "Føroyar"
+        }
+      }
+    },
+    "capital": [
+      "Tórshavn"
+    ],
+    "subregion": "Northern Europe",
+    "population": 48865
+  },
+  {
+    "name": {
+      "common": "Svalbard and Jan Mayen",
+      "official": "Svalbard og Jan Mayen",
+      "nativeName": {
+        "nor": {
+          "official": "Svalbard og Jan Mayen",
+          "common": "Svalbard og Jan Mayen"
+        }
+      }
+    },
+    "capital": [
+      "Longyearbyen"
+    ],
+    "subregion": "Northern Europe",
+    "population": 2562
+  },
+  {
+    "name": {
+      "common": "Guernsey",
+      "official": "Bailiwick of Guernsey",
+      "nativeName": {
+        "eng": {
+          "official": "Bailiwick of Guernsey",
+          "common": "Guernsey"
+        },
+        "fra": {
+          "official": "Bailliage de Guernesey",
+          "common": "Guernesey"
+        },
+        "nfr": {
+          "official": "Dgèrnésiais",
+          "common": "Dgèrnésiais"
+        }
+      }
+    },
+    "capital": [
+      "St. Peter Port"
+    ],
+    "subregion": "Northern Europe",
+    "population": 62999
+  },
+  {
+    "name": {
+      "common": "Montenegro",
+      "official": "Montenegro",
+      "nativeName": {
+        "cnr": {
+          "official": "Црна Гора",
+          "common": "Црна Гора"
+        }
+      }
+    },
+    "capital": [
+      "Podgorica"
+    ],
+    "subregion": "Southeast Europe",
+    "population": 621718
+  },
+  {
+    "name": {
+      "common": "Norway",
+      "official": "Kingdom of Norway",
+      "nativeName": {
+        "nno": {
+          "official": "Kongeriket Noreg",
+          "common": "Noreg"
+        },
+        "nob": {
+          "official": "Kongeriket Norge",
+          "common": "Norge"
+        },
+        "smi": {
+          "official": "Norgga gonagasriika",
+          "common": "Norgga"
+        }
+      }
+    },
+    "capital": [
+      "Oslo"
+    ],
+    "subregion": "Northern Europe",
+    "population": 5379475
+  },
+  {
+    "name": {
+      "common": "Latvia",
+      "official": "Republic of Latvia",
+      "nativeName": {
+        "lav": {
+          "official": "Latvijas Republikas",
+          "common": "Latvija"
+        }
+      }
+    },
+    "capital": [
+      "Riga"
+    ],
+    "subregion": "Northern Europe",
+    "population": 1901548
+  },
+  {
+    "name": {
+      "common": "Croatia",
+      "official": "Republic of Croatia",
+      "nativeName": {
+        "hrv": {
+          "official": "Republika Hrvatska",
+          "common": "Hrvatska"
+        }
+      }
+    },
+    "capital": [
+      "Zagreb"
+    ],
+    "subregion": "Southeast Europe",
+    "population": 4047200
+  },
+  {
+    "name": {
+      "common": "Cyprus",
+      "official": "Republic of Cyprus",
+      "nativeName": {
+        "ell": {
+          "official": "Δημοκρατία της Κύπρος",
+          "common": "Κύπρος"
+        },
+        "tur": {
+          "official": "Kıbrıs Cumhuriyeti",
+          "common": "Kıbrıs"
+        }
+      }
+    },
+    "capital": [
+      "Nicosia"
+    ],
+    "subregion": "Southern Europe",
+    "population": 1207361
+  }
+]
